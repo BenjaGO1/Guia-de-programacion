@@ -37,7 +37,7 @@ public class ejercicio8 : MonoBehaviour
         }
         else
         {
-            Debug.Log("El dia ingresado no es valido");
+            Debug.Log("El dia ingresado no es valido"); 
         }
     }
 
